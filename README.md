@@ -16,7 +16,7 @@ This generator copies all of Devise's views into your views folder. This means y
 rails g devise:views
 ```
 
-## 2. Replace all the form templates with Bootstrapped ones
+## 2. Replace all the Devise views with these Bootstrapped ones
 1. Replace `devise/confirmations/new.html.erb`
 1. Replace `devise/passwords/edit.html.erb`
 1. Replace `devise/passwords/new.html.erb`
